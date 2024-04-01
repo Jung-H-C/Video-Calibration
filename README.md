@@ -1,5 +1,5 @@
 # Video-Calibration
-It's made for video calibration with video taken yourself😄
+It's used for video calibration with video filmed yourself😄
 
 ***
 웹캠을 이용한 영상 녹화 및 이를 보정해주는 프로그램<br>
@@ -11,7 +11,7 @@ It's made for video calibration with video taken yourself😄
 ***
 # Camera Calibration 결과:
 <br>
-![image](https://github.com/Jung-H-C/Video-Calibration/assets/101037538/512c4bf3-0d35-440a-8489-5aa3acdc1282)
+![캡처](https://github.com/Jung-H-C/Video-Calibration/assets/101037538/6010927b-a924-4b6b-8283-c6a25bc82768)
 <br>
 
 
