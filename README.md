@@ -27,8 +27,8 @@ It's a video calibration program equipped with recording system🎥😄
 <br>
 (왼쪽: 원본) (오른쪽: 보정 후)
 <br>
-<img width="482" alt="original_367" src="https://github.com/Jung-H-C/Video-Calibration/assets/101037538/eb127fa0-514c-4de3-a84d-8f7a5c5d76a3">
-<img width="481" alt="rectified_368" src="https://github.com/Jung-H-C/Video-Calibration/assets/101037538/09795368-6fd3-4fea-9a90-81e158b9c9b8">
+<img width="300" alt="original_367" src="https://github.com/Jung-H-C/Video-Calibration/assets/101037538/eb127fa0-514c-4de3-a84d-8f7a5c5d76a3">
+<img width="300" alt="rectified_368" src="https://github.com/Jung-H-C/Video-Calibration/assets/101037538/09795368-6fd3-4fea-9a90-81e158b9c9b8">
 <br>
 (왼쪽: 원본) (오른쪽: 보정 후)
 <br>
