@@ -11,9 +11,8 @@ It's made for video calibration with video taken yourself😄
 ***
 # Camera Calibration 결과:
 <br>
-![캡처](https://github.com/Jung-H-C/Video-Calibration/assets/101037538/6010927b-a924-4b6b-8283-c6a25bc82768)
-
-
+<img width="300" alt="rectified_68" src="[https://github.com/Jung-H-C/Video-Calibration/assets/101037538/89eb2ce2-0600-49b3-b615-0c891410b51e](https://github.com/Jung-H-C/Video-Calibration/blob/main/screenshots/%EC%BA%A1%EC%B2%98.PNG?raw=true)">
+<br>
 
 
 ***
