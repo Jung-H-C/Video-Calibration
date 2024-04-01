@@ -1,5 +1,5 @@
 # Video-Calibration
-It's a video calibration program equipped with recording system😄
+It's a video calibration program equipped with recording system🎥😄
 
 ***
 웹캠을 이용한 영상 녹화 및 이를 보정해주는 프로그램<br>
