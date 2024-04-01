@@ -11,7 +11,7 @@ It's used for video calibration with video filmed yourself😄
 ***
 # Camera Calibration 결과:
 <br>
-<img width="300" alt="original_69" src="https://github.com/Jung-H-C/Video-Calibration/assets/101037538/6010927b-a924-4b6b-8283-c6a25bc82768">
+<img width="800" alt="original_69" src="https://github.com/Jung-H-C/Video-Calibration/assets/101037538/6010927b-a924-4b6b-8283-c6a25bc82768">
 <br>
 
 
