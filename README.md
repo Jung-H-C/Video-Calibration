@@ -9,11 +9,12 @@ It's made for video calibration with video taken yourself😄
 (왼쪽: 원본) (오른쪽: 보정 후)
 
 ***
-Camera Calibration 결과:
+# Camera Calibration 결과:
+<br>
 ![image](https://github.com/Jung-H-C/Video-Calibration/assets/101037538/512c4bf3-0d35-440a-8489-5aa3acdc1282)
 
 ***
-보정 Demo:
+# 보정 Demo:
 <img width="300" alt="original_69" src="https://github.com/Jung-H-C/Video-Calibration/assets/101037538/3e7fbe00-163d-4889-af3e-b99ad349379e">
 <img width="300" alt="rectified_68" src="https://github.com/Jung-H-C/Video-Calibration/assets/101037538/89eb2ce2-0600-49b3-b615-0c891410b51e">
 <br>
